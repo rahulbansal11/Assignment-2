@@ -1,0 +1,32 @@
+1>>Print something:-
+print("Nice to meet you!")
+
+
+2>>Concatinate strings (using '+' operator):-
+a="Acad"
+b="View"
+print(a+b)
+
+
+3>>User Defined Variables:-
+x=int(input("enter any number"))
+y=input("enter any string")
+z=input("enter any string")
+print(x,y,z)
+
+
+4>>Print:-
+print('''"Let's get started"''')
+
+
+5>>Printing using placeholders:-
+s="Acadview"
+course="Python" 
+fees=5000 
+print("%s %s %d"%(s,course,fees))
+
+
+6>>Find the Area of a Circle with user Defined Radius:-
+pi=3.14
+r=int(input("enter radius of circle"))
+print("area =",r*r*pi)
